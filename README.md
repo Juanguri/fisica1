@@ -11,15 +11,6 @@ Características:
 Simulación en tiempo real: Visualización del movimiento y colisión de dos cuerpos.
 Configuración personalizada: Ajuste de la masa, velocidad inicial y fuerzas aplicadas a cada cuerpo.
 Resultados detallados: Distancia recorrida por cada cuerpo antes de la colisión.
-Cómo Usar
-Clonar el repositorio:
-
-bash
-Copiar código
-git clone https://github.com/tu-usuario/simulacion-colision.git
-cd simulacion-colision
-Abrir el archivo HTML:
-Simplemente abre el archivo index.html en tu navegador preferido.
 
 Configuración de parámetros:
 
